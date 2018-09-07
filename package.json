@@ -1,6 +1,6 @@
 {
   "name": "@bifot/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config based on airbnb-base with a few needed rules.",
   "main": "index.js",
   "scripts": {

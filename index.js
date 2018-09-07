@@ -6,6 +6,7 @@ module.exports = {
     'no-console': ['error', {
       allow: ['error'],
     }],
+    'no-restricted-globals': 'off',
   },
   globals: {
     before: true,
