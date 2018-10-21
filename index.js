@@ -7,6 +7,7 @@ module.exports = {
       allow: ['error'],
     }],
     'no-restricted-globals': 'off',
+    'newline-before-return': 'error',
   },
   globals: {
     before: true,
